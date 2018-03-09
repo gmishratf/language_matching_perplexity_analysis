@@ -1,9 +1,9 @@
 # language_matching_perplexity_analysis
-Language matching system using n-grams and comparison of kneser-ney smoothing vs add-k smoothing vs no smoothing
+Language matching system using n-grams and comparison of kneser-ney smoothing vs add-k smoothing vs no smoothing.
 
-Based on one of the components of the excellent work done by Prof. Grzegorz Kondrak and Bradley Hauer
-Uses perplexity values for finding most similar language from a multi-language corpus
-Tested using the Universal declaration of Human rights
+Based on one of the components of the excellent work done by Prof. Grzegorz Kondrak and Bradley Hauer.
+Uses perplexity values for finding most similar language from a multi-language corpus.
+Tested using the Universal declaration of Human rights.
 
 PLEASE READ "4. Execution" BEFORE RUNNING PROGRAM (langid.py) 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
